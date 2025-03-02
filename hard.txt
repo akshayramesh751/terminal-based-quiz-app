@@ -1,0 +1,90 @@
+What is the time complexity of the Floyd-Warshall algorithm?
+O(n)
+O(n^2)
+O(n^3)
+O(n log n)
+3
+Which of the following sorting algorithms has the best worst-case time complexity?
+Quick Sort
+Merge Sort
+Heap Sort
+Bubble Sort
+2
+What is the time complexity of finding the shortest path in an unweighted graph using BFS?
+O(V + E)
+O(V)
+O(E)
+O(log V)
+1
+Which of the following is a correct representation of a Red-Black tree?
+A balanced binary tree where every node has a color attribute.
+A tree where all leaf nodes are at the same depth.
+A binary tree where each node has two children.
+A tree that maintains balance through rotations.
+1
+What is the time complexity of deleting the minimum element in a Fibonacci heap?
+O(1)
+O(log n)
+O(n)
+O(log n)
+2
+What is the time complexity of accessing an element in an AVL tree?
+O(log n)
+O(n)
+O(1)
+O(n log n)
+1
+Which of the following is not a characteristic of a B-tree?
+Balanced tree
+Nodes can have more than two children
+Sorted keys
+Each node has a maximum number of children
+4
+What is the worst-case time complexity of heap sort?
+O(n log n)
+O(n^2)
+O(log n)
+O(1)
+1
+Which of the following problems can be solved using dynamic programming?
+Knapsack problem
+Graph traversal
+Merge sort
+Quicksort
+1
+What is the worst-case time complexity of quicksort?
+O(n^2)
+O(n log n)
+O(n)
+O(log n)
+1
+Which of the following is a type of graph traversal algorithm?
+Depth-First Search
+Breadth-First Search
+Both Depth-First Search and Breadth-First Search
+None of the above
+3
+Which data structure is used to implement a priority queue?
+Array
+Stack
+Heap
+Queue
+3
+What is the space complexity of an adjacency matrix representation of a graph with n vertices?
+O(n)
+O(n^2)
+O(log n)
+O(1)
+2
+Which of the following is the correct time complexity for finding an element in an unsorted array?
+O(n)
+O(log n)
+O(1)
+O(n^2)
+1
+What is the worst-case time complexity of an insert operation in a binary search tree?
+O(log n)
+O(n)
+O(1)
+O(n^2)
+2

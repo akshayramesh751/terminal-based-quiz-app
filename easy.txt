@@ -1,0 +1,91 @@
+What is the time complexity of binary search?
+O(log n)
+O(n)
+O(n^2)
+O(1)
+1
+Which data structure uses FIFO principle?
+Stack
+Queue
+Heap
+Tree
+2
+What is the space complexity of an array in C?
+O(n)
+O(log n)
+O(1)
+O(n^2)
+1
+Which of the following is a non-linear data structure?
+Array
+Stack
+Queue
+Graph
+4
+Which of the following operations does a stack support?
+Enqueue and Dequeue
+Push and Pop
+Insert and Delete
+Add and Remove
+2
+What is the time complexity of accessing an element in an array by index?
+O(n)
+O(log n)
+O(1)
+O(n^2)
+3
+Which data structure is used in Depth First Search (DFS)?
+Stack
+Queue
+Array
+Tree
+1
+Which of the following is a characteristic of a linked list?
+Fixed size
+Dynamic size
+Random access
+All elements are adjacent in memory
+2
+In a binary tree, the maximum number of children a node can have is:
+1
+2
+3
+4
+2
+Which of the following sorting algorithms is based on comparisons?
+Merge Sort
+Counting Sort
+Radix Sort
+Bucket Sort
+1
+What is the height of a binary tree with n nodes in the worst case?
+O(log n)
+O(n)
+O(n^2)
+O(1)
+2
+What is the time complexity of insertion in a balanced binary search tree?
+O(log n)
+O(n)
+O(1)
+O(n^2)
+1
+Which data structure is commonly used to implement recursion?
+Queue
+Stack
+Array
+Tree
+2
+What is the worst-case time complexity of bubble sort?
+O(n)
+O(n log n)
+O(n^2)
+O(1)
+3
+In which data structure are elements accessed in Last In First Out (LIFO) order?
+Stack
+Queue
+Array
+Tree
+1
+

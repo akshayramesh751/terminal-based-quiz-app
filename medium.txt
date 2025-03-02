@@ -1,0 +1,91 @@
+What is the height of a balanced binary search tree?
+O(log n)
+O(n)
+O(n^2)
+O(1)
+1
+Which traversal is used for a breadth-first search?
+DFS
+BFS
+Inorder
+Preorder
+2
+What is the time complexity of the best case for insertion sort?
+O(n)
+O(n log n)
+O(1)
+O(n^2)
+1
+In a doubly linked list, how many pointers does each node have?
+1
+2
+3
+4
+2
+What is the average time complexity of searching in a binary search tree?
+O(log n)
+O(n)
+O(n^2)
+O(1)
+1
+Which of the following is not a sorting algorithm?
+Quick Sort
+Heap Sort
+Merge Sort
+Hash Sort
+4
+What is the time complexity of accessing an element in a hash table (average case)?
+O(1)
+O(log n)
+O(n)
+O(n^2)
+1
+What is the time complexity of binary search in a sorted array?
+O(n)
+O(log n)
+O(n^2)
+O(1)
+2
+What is the space complexity of quicksort (in the worst case)?
+O(n)
+O(log n)
+O(n^2)
+O(1)
+1
+Which of the following is not a characteristic of a binary heap?
+Complete binary tree
+Min or max element at the root
+A tree with no children
+Used to implement priority queues
+3
+In a circular linked list, the last node points to:
+Null
+The first node
+The middle node
+None of the above
+2
+What is the time complexity of merging two sorted arrays?
+O(n)
+O(n log n)
+O(n^2)
+O(1)
+1
+What is the space complexity of merge sort?
+O(n)
+O(log n)
+O(1)
+O(n^2)
+1
+Which of the following is the best example of a greedy algorithm?
+Dijkstra's algorithm
+Knapsack problem
+Binary search
+Floyd-Warshall algorithm
+1
+Which of the following data structures supports fast insertion and deletion?
+Array
+Stack
+Queue
+Linked list
+4
+
